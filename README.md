@@ -26,7 +26,7 @@ My goal is to create scalable, maintainable, and performance-optimized web solut
 ## 🚀 Current Activities
 
 - 🌱 Exploring **Next.js** and modern React patterns  
-- 🧳 Working on a **Tourism Website** project  
+- 🧳 Working on a **School Website** project  
 - 🛠 Strengthening JavaScript fundamentals and frontend architecture  
 - 📚 Learning best practices for scalable UI development  
 
